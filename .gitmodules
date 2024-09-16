@@ -10,3 +10,9 @@
 [submodule "Suxz"]
 	path = Suxz
 	url = https://github.com/PhosRunia28/Suxz
+[submodule "Bubble-Bash"]
+	path = Bubble-Bash
+	url = https://github.com/PhosRunia28/Bubble-Bash
+[submodule "MSTSKP"]
+	path = MSTSKP
+	url = https://github.com/PhosRunia28/MSTSKP
