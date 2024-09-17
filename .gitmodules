@@ -16,3 +16,9 @@
 [submodule "MSTSKP"]
 	path = MSTSKP
 	url = https://github.com/PhosRunia28/MSTSKP
+[submodule "The-Malaka"]
+	path = The-Malaka
+	url = https://github.com/PhosRunia28/The-Malaka
+[submodule "Skilline"]
+	path = Skilline
+	url = https://github.com/PhosRunia28/Skilline
